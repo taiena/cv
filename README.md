@@ -34,6 +34,6 @@
 
 **PROFESSIONAL EXPERIENCE**
                                                     
-  Developing a project for a social network (for a training course)
+  Developing a training social network project 
                                                   
   <https://github.com/taiena/project_react>    
