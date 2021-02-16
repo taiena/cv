@@ -38,4 +38,5 @@
                                                   
   <https://github.com/taiena/project-react>    
   
-  - Developing photobookingsystem project (front-end for photographer's personal account)
+  - Developing photobookingsystem project: front-end for photographer's personal account 
+  (support for old code and rewriting part of an existing project into react in conjunction with the back-end developer)
