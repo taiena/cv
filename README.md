@@ -34,6 +34,6 @@
 
 **PROFESSIONAL EXPERIENCE**
                                                     
-  Developing a project for a social network (for a training course React Samurai)
+  Developing a project for a social network (for a training course)
                                                   
   <https://github.com/taiena/project_react>    
