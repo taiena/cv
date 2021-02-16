@@ -34,6 +34,8 @@
 
 **PROFESSIONAL EXPERIENCE**
                                                     
-  Developing a training social network project 
+  - Developing a training social network project 
                                                   
   <https://github.com/taiena/project-react>    
+  
+  - Developing photobookingsystem project (front-end for photographer's personal account)
