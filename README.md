@@ -36,4 +36,4 @@
                                                     
   Developing a training social network project 
                                                   
-  <https://github.com/taiena/project_react>    
+  <https://github.com/taiena/project-react>    
